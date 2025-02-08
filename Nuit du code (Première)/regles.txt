@@ -1,13 +1,10 @@
 Jumping Warrior !!!
 
 But du jeu : 
-L'objectif du jeu est d'arriver le plus haut possible sur la map pour gagner le jeu. Il devra réaliser un ultime saut où il touchera le fond.  
-(sans se faire toucher par un éventuel monstre, qui tuerait le joueur)
+L'objectif du jeu est d'arriver le plus haut possible sur la map pour gagner le jeu. Il devra réaliser un ultime saut où il touchera le bloc final.  
 
 Déroulement du jeu : 
 Le jeu est initié par un saut ("jump") automatique.
 Le joueur arrive alors sur une map sur laquelle il doit avancer, 
-à l'aide des touches "Q" pour aller en arriere, "D" pour avancer et "Z" pour sauter et donc monter le plus haut possible.
-Il doit cependant eviter les potentiels monstres ("enemis") qui vont lui faire face. 
-Il va donc gravir les obstacles pour atteindre la victoire en touchant le plafond ("saut final"), 
-où il va sauter pour monter. 
+à l'aide des touches "Q" pour aller en arrière, "D" pour avancer et "Z" pour sauter, et monter le plus haut possible.
+Il va donc gravir les obstacles pour atteindre la victoire en touchant le bloc final.
